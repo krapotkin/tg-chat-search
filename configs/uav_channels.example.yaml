@@ -1,0 +1,19 @@
+# Каналы UAV/BPLA для парсера очереди вложений (parse_attachments.py)
+# По одному каналу на строку, # — комментарий
+# Реальный конфиг: configs/uav_channels.yaml (вне git). Скопируйте этот файл
+# в configs/uav_channels.yaml и при необходимости отредактируйте.
+- uav_channel_01
+- uav_channel_02
+- uav_channel_03
+- uav_channel_04
+- uav_channel_05
+- uav_channel_06
+- uav_channel_07
+- uav_channel_08
+- uav_channel_09
+- uav_channel_10
+- uav_channel_11
+- uav_channel_12
+- uav_channel_13
+- uav_channel_14
+- uav_channel_15

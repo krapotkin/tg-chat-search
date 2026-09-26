@@ -1,0 +1,17 @@
+* text=auto eol=lf
+
+*.py text
+*.md text
+*.toml text
+*.sh text eol=lf
+*.json text
+*.jsonl text
+*.env.example text
+.venv text eol=lf
+
+# Бинарные файлы
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.npz binary
+*.db binary
